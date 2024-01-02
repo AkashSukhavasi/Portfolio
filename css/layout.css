@@ -349,7 +349,7 @@ ul#nav li.current a { color: #f05800; }
 	-webkit-animation: Swift 1s ease;
 }
 .RProj {
-	width: 35%;
+	width: 65%;
 	-moz-animation: RProj 1s ease;
 	-webkit-animation: RProj 1s ease;
 }
@@ -369,7 +369,7 @@ ul#nav li.current a { color: #f05800; }
 	-webkit-animation: JS 1s ease;
 }
 .DBMS {
-	width: 50%;
+	width: 65%;
 	-moz-animation: DBMS 1s ease;
 	-webkit-animation: DBMS 1s ease;
 }
@@ -411,7 +411,7 @@ ul#nav li.current a { color: #f05800; }
 }
 @-moz-keyframes RProj {
 	0%   { width: 0px;  }
-	100% { width: 35%;  }
+	100% { width: 65%;  }
 }
 @-moz-keyframes HTML5 {
 	0%   { width: 0px;  }
@@ -427,7 +427,7 @@ ul#nav li.current a { color: #f05800; }
 }
 @-moz-keyframes DBMS {
 	0%   { width: 0px;  }
-	100% { width: 50%;  }
+	100% { width: 65%;  }
 }
 @-moz-keyframes Windows {
 	0%   { width: 0px;  }
@@ -464,7 +464,7 @@ ul#nav li.current a { color: #f05800; }
  }  
 @-webkit-keyframes RProj {
 	0%   { width: 0px;  }
-	100% { width: 35%;  }
+	100% { width: 65%;  }
 }
 @-webkit-keyframes HTML5 {
 	0%   { width: 0px;  }
@@ -480,7 +480,7 @@ ul#nav li.current a { color: #f05800; }
 }
 @-webkit-keyframes DBMS {
 	0%   { width: 0px;  }
-	100% { width: 50%;  }
+	100% { width: 65%;  }
 }
 @-webkit-keyframes Windows {
 	0%   { width: 0px;  }
